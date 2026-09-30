@@ -1,0 +1,9 @@
+# ESP-IDF build output
+build/
+managed_components/
+dependencies.lock
+sdkconfig
+sdkconfig.old
+
+# VS Code local machine settings (paths are per-developer)
+.vscode/

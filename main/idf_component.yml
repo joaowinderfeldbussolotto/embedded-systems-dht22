@@ -1,2 +1,0 @@
-dependencies:
-  esp-idf-lib/dht: "^1.2.0"
